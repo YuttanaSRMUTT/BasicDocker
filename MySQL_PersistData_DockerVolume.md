@@ -122,3 +122,22 @@ docker run --name dolphin --rm -p 3306:3306 -d -e MYSQL_ROOT_PASSWORD=banana -v 
 
 
 <!-- 10:15/23:59 -->
+
+
+```
+$ git init
+$ git add .
+$ git commit -m "first commit"
+$ git branch -M main
+$ git remote add origin https://github.com/YuttanaSRMUTT/BasicDocker.git
+$ git push -u origin main
+```
+
+### git tag
+```
+$ git add .
+$ git commit -m "v1.0"
+$ git tag v1.0
+$ git push origin v1.0
+$ git push -d origin v1.0
+```
