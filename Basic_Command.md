@@ -108,8 +108,7 @@ $ docker image rm busybox:musl
     root@6729dfa91a41:~# ls
     root@6729dfa91a41:~# cat customers.sql
     ```
-
-
+    
 
 
 
