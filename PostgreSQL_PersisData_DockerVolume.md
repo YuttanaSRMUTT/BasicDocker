@@ -122,6 +122,13 @@ $ docker ps -a
 $ docker stop unicorn
 ```
 
+<!-- GIT -->
+```
+$ git add .
+$ git commit -m "3rd"
+$ git push
+```
+
 
 
 
