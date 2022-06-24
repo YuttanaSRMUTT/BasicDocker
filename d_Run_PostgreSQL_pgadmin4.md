@@ -115,6 +115,20 @@
 
 [`Last Learnning VDO [11:25 / 20:32]`](https://www.youtube.com/watch?v=D79gYuUuEWo&list=PLoTScYm9O0GGJV7UpJs6NVvsf6qaKja9_&index=10)
 
+```
+$ git add .
+$ git commit -m "v1.0"
+$ git push
+```
+
+```
+$ git add .
+$ git commit -m "v1.0"
+$ git tag v1.0
+$ git push origin v1.0
+$ git push -d origin v2.0
+```
+
 <!-- 11:25 / 20:32 -->
 
 
